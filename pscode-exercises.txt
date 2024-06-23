@@ -32,4 +32,38 @@ add the 5 numbers together for sum
 divide sum by 5
 print on the screen the average of the 5 numbers
 
+Minimum/Maximum of the 5 numbers
+
+
 If a> b&&c&&d&&e
+then echo a is maximum
+
+If b> a&&c&&d&&e
+then echo b is maximum
+
+If c> a&&b&&d&&e
+then echo c is maximum
+
+If d> a&&b&&c&&e
+then echo d is maximum
+
+If e > a&&b&&c&&d
+then echo e is maximum
+------------------
+If a< b&&c&&d&&e
+then echo a is minimum
+
+If b< a&&c&&d&&e
+then echo b is minimum
+
+If c< a&&b&&d&&e
+then echo c is minimum
+
+If d< a&&b&&c&&e
+then echo d is minimum
+
+If e< a&&b&&c&&d
+then echo e is minimum
+
+
+
